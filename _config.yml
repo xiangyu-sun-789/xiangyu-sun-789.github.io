@@ -20,7 +20,7 @@ title                    : "Xiangyu Sun (Shawn)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xiangyu Sun (Shawn)"
-description              : ""
+description              : "Xiangyu Sun (Shawn) Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -98,19 +98,7 @@ author:
   bio              : "I am an MSc student at Simon Fraser University."
   location         : "Canada"
   email            :
-  links: # https://www.w3schools.com/icons/fontawesome_icons_brand.asp
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+  links: # https://fontawesome.com/icons?d=gallery
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xiangyu-sun-789"
@@ -279,3 +267,12 @@ defaults:
       comments: false
       share: true
       related: true
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
