@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiangyu Sun (Shawn)"
-  avatar           : "/images/IMG_6299.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_image.JPG" 
   bio              : "I am an MSc student at Simon Fraser University."
   location         : "Canada"
   email            :
