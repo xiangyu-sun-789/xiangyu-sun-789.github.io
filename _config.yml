@@ -102,10 +102,9 @@ author:
   email            :
   links: # https://fontawesome.com/icons?d=gallery
 
-    - label: "Email"
+    - label: "xiangyu_sun at sfu dot ca"
       icon: "fas fa-fw fa-at"
-      url: "xiangyu_sun at sfu dot ca"
-      
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xiangyu-shawn-sun-b41aa6197/"
