@@ -101,9 +101,11 @@ author:
   location         : "Canada"
   email            :
   links: # https://fontawesome.com/icons?d=gallery
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/xiangyu-sun-789"
+
+    - label: "Email"
+    icon: "fas fa-fw fa-at"
+    url: "xiangyu_sun at sfu dot ca"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xiangyu-shawn-sun-b41aa6197/"
