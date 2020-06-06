@@ -99,12 +99,11 @@ author:
   avatar           : "/images/profile_image.JPG" 
   bio              : "I am an MSc student at Simon Fraser University."
   location         : "Canada"
-  # email            : "xiangyu_sun at sfu dot ca"
   links: # https://fontawesome.com/icons?d=gallery
 
-    - label: "Email: xiangyu_sun [at] sfu [dot] ca"
+    - label: "Email"
       icon: "fas fa-fw fa-at"
-      url: "mailto:"
+      url: "mailto:xiangyu_sun [at] sfu [dot] ca"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
