@@ -129,8 +129,8 @@
 
   img {
     // image size for desktop view (bounded sidebar size)
-    max-width: 300px;
-    border-radius: 50%; // 0% is square shape
+    max-width: 200px;
+    border-radius: 20%; // 0% is square shape
 
     @include breakpoint($large) {
       padding: 5px;
