@@ -117,8 +117,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 360px;
-  height: 360px;
+  // image size on phone
+  width: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
     display: block;
@@ -127,7 +128,8 @@
   }
 
   img {
-    max-width: 1100px;
+    // image size on desktop
+    max-width: 600px;
     border-radius: 50%;
 
     @include breakpoint($large) {
