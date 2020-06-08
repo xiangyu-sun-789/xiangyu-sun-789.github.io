@@ -118,8 +118,8 @@
   display: table-cell;
   vertical-align: top;
   // image size on phone
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     display: block;
