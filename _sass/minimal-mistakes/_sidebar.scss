@@ -117,7 +117,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  // image size on phone
+  // image size for phone view
   width: 100px;
   height: 100px;
 
@@ -128,9 +128,9 @@
   }
 
   img {
-    // image size on desktop
-    max-width: 600px;
-    border-radius: 50%;
+    // image size for desktop view (bounded sidebar size)
+    max-width: 300px;
+    border-radius: 50%; // 0% is square shape
 
     @include breakpoint($large) {
       padding: 5px;
