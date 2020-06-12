@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Xiangyu Sun (Shawn)"
   avatar           : "/images/profile_image.JPG" 
-  bio              : "I am an MSc student at Simon Fraser University."
+  bio              : "I am an MSc student at Simon Fraser University. My research interests include reinforcement learning, interpretable models and causality."
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
 
