@@ -101,9 +101,9 @@ author:
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
 
-    - label: "xiangyu_sun [at] sfu.ca"
+    - label: "xiangyu_sun@sfu.ca"
       icon: "fas fa-fw fa-at"
-      url: "mailto:xiangyu_sun [at] sfu.ca"
+      url: "mailto:xiangyu_sun@sfu.ca"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
