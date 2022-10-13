@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Xiangyu Sun (Shawn)"
   # avatar           : "/images/profile_image.JPG" 
-  bio              : "I am a PhD student at Simon Fraser University. My research interests include reinforcement learning, interpretability, deep generative models and causality."
+  bio              : "I am a PhD student at Simon Fraser University. My research interests include causal discovery, structure learning, interpretability and reinforcement learning."
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
 
