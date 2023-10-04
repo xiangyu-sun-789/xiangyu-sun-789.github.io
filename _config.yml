@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Xiangyu Sun (Shawn)"
   # avatar           : "/images/profile_image.JPG" 
-  bio              : "I am a PhD student at Simon Fraser University. My research interests include causality, explainability and reinforcement learning. I am expected to graduate in April 2024 (if not sooner) and am currently looking for a full-time position as a machine learning researcher."
+  bio              : "I am a PhD student at Simon Fraser University. My research interests include causality, explainability and reinforcement learning."
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
 
