@@ -110,7 +110,7 @@ author:
       url: "https://www.linkedin.com/in/xiangyu-shawn-sun-b41aa6197/"
 
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?user=dEfKirwAAAAJ&hl=en"
     
     # - label: "GitHub"
