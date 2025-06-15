@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Xiangyu Sun"
   # avatar           : "/images/profile_image.JPG" 
-  bio              : "My research interests include interpretability, large langugage models, reinforcement learning and causality."
+  bio              : "My research interests include Explainable AI, Reinforcement Learning, Large Language Models and causality."
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
 
