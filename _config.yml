@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Xiangyu (Shawn) Sun Personal Webpage"
+title                    : "Xiangyu Sun Personal Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Xiangyu (Shawn) Sun"
-description              : "Xiangyu (Shawn) Sun Personal Webpage"
+name                     : "Xiangyu Sun"
+description              : "Xiangyu Sun Personal Webpage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiangyu (Shawn) Sun"
+  name             : "Xiangyu Sun"
   # avatar           : "/images/profile_image.JPG" 
   bio              : "My research interests include interpretability, large langugage models, reinforcement learning and causality."
   location         : "Canada"
@@ -107,7 +107,7 @@ author:
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xiangyu-shawn-s-b41aa6197/"
+      url: "https://www.linkedin.com/in/xiangyu-s-b41aa6197/"
 
     # - label: "Google Scholar"
     #   icon: "fab fa-fw fa-google"
