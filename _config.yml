@@ -97,22 +97,18 @@ analytics:
 author:
   name             : "Xiangyu Sun"
   avatar           : "/images/profile_image1.jpg" 
-  bio              : "My research interests include Explainable AI, Reinforcement Learning, Large Language Models and causality."
+  bio              : "My research interests include Explainable AI, Reinforcement Learning, Large Language Models and Causality."
   location         : "Canada"
   links: # https://fontawesome.com/icons?d=gallery
-
     - label: "xiangyu_sun@sfu.ca"
-      icon: "fas fa-fw fa-at"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:xiangyu_sun@sfu.ca"
-
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xiangyu-s-b41aa6197/"
-
     - label: "Google Scholar"
       icon: "fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=dEfKirwAAAAJ&hl=en"
-    
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/xiangyu-sun-789"
